@@ -1,0 +1,3 @@
+[submodule "cardanonical"]
+	path = cardanonical
+	url = https://github.com/CardanoSolutions/cardanonical
